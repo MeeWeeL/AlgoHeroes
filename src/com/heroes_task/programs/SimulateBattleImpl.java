@@ -1,14 +1,12 @@
-package main.java.com.heroes_task.programs;
+package com.heroes_task.programs;
 
 import com.battle.heroes.army.Army;
 import com.battle.heroes.army.Unit;
 import com.battle.heroes.army.programs.PrintBattleLog;
 import com.battle.heroes.army.programs.SimulateBattle;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.List;
 import java.util.Set;
 
 public class SimulateBattleImpl implements SimulateBattle {

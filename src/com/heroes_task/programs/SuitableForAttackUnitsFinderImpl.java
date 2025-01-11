@@ -1,4 +1,4 @@
-package main.java.com.heroes_task.programs;
+package com.heroes_task.programs;
 
 import com.battle.heroes.army.Unit;
 import com.battle.heroes.army.programs.SuitableForAttackUnitsFinder;
